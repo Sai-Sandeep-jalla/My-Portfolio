@@ -3,7 +3,7 @@ import Social from "./Social";
 import "./Home.css";
 import Data from "./Data";
 import ScrollDown from "./ScrollDown";
-import profileImage from "../../assets/profile.jpg";
+import profileImage from "../../assets/profile.JPG";
 const Home = () => {
   return (
     <div>
